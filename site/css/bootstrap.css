@@ -2000,16 +2000,15 @@ header .top-sect .help-box {
 }
 header .top-sect .help-box p {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 24px;
   line-height: 33px;
   margin-top: 52px;
   text-transform: uppercase;
-  text-align: left;
 }
 header .top-sect .help-box a {
   display: block;
   color: #21c2f8;
-  font-size: 30px;
+  font-size: 43px;
   font-weight: 800;
   line-height: 45px;
   letter-spacing: -1px;
@@ -2021,7 +2020,7 @@ header .top-sect .help-box a:before {
   content: "\f10b";
   font-family: 'FontAwesome';
   font-weight: 400;
-  font-size: 60px;
+  font-size: 63px;
   color: #c9c9c9;
   top: -5px;
   left: 0;
@@ -5421,9 +5420,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-header {
   position: relative;
-  background: #ffffff;
+  background: #21c2f8;
   color: #ffffff;
-  padding: 41px 10px 40px 1px ;
+  padding: 41px 23px 19px;
 }
 @media (min-width: 768px) {
   .navbar-header {
