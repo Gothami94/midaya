@@ -1056,6 +1056,7 @@ th {
 .glyphicon-menu-down:before {
   content: "\e259";
 }
+
 .glyphicon-menu-up:before {
   content: "\e260";
 }
@@ -1957,6 +1958,7 @@ header {
 }
 header .top-sect {
   padding-bottom: 17px;
+
 }
 header .top-sect:before,
 header .top-sect:after {
@@ -2008,7 +2010,7 @@ header .top-sect .help-box p {
 }
 header .top-sect .help-box a {
   display: block;
-  color: #21c2f8;
+  color: #170b89;
   font-size: 30px;
   font-weight: 800;
   line-height: 45px;
@@ -2031,7 +2033,7 @@ header .top-sect .help-box a:before {
   transition: 0.3s;
 }
 header .top-sect .help-box a:hover:before {
-  color: #21c2f8;
+  color: #170b89;
   font-size: 67px;
 }
 header .top-sect .help-box small {
@@ -5770,7 +5772,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #ffffff;
-  background-color: #222533;
+  background-color: #0a0447;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .sfHover > a,
@@ -5779,7 +5781,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > .sfHover > a:focus {
   color: #ffffff;
-  background-color: #222533;
+  background-color: #0a0447;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -5810,7 +5812,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #21c2f8;
+    color: #0a0447;
     background-color: transparent;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
@@ -6016,7 +6018,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
   text-decoration: none;
-  color: #21c2f8;
+  color: #0a0447;
   background-color: #f3f2f2;
 }
 .dropdown-menu > .active > a,
@@ -6025,7 +6027,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .dropdown-menu > .sfHover > a:hover,
 .dropdown-menu > .active > a:focus,
 .dropdown-menu > .sfHover > a:focus {
-  color: #21c2f8;
+  color: #0a0447;
   text-decoration: none;
   outline: 0;
   background-color: transparent;
@@ -6390,7 +6392,7 @@ a.badge:focus {
 .jumbotron em {
   text-transform: uppercase;
   font-style: normal;
-  font-size: 94px;
+  font-size: 74px;
   font-weight: 900;
   color: #21c2f8;
   line-height: 110px;
@@ -6443,6 +6445,15 @@ a.badge:focus {
 .jumbotron1 em {
   color: #ffffff;
 }
+
+.jumbotron3 {
+  background: rgba(10, 4, 71, 0.8);
+}
+.jumbotron3 *,
+.jumbotron3 em {
+  color: #ffffff;
+}
+
 .jumbotron2 {
   background: rgba(34, 37, 51, 0.8);
 }
