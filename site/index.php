@@ -64,13 +64,13 @@
                   <a href="./">HOME</a>
                 </li>
                 <li>
-                  <a href="about.html">ABOUT</a>
+                  <a href="about.php">ABOUT</a>
                 </li>
                 <li>
-                  <a href="product.html">PRODUCTS</a>
+                  <a href="product.php">PRODUCTS</a>
                 </li>
                 <li class="dropdown">
-                  <a href="service.html">SERVICES<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+                  <a href="service.php">SERVICES<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
                   <ul class="dropdown-menu">
                     <li>
                       <a href="#">Service 1</a>
@@ -92,11 +92,11 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="product.html">SOCIAL SERVICES</a>
+                  <a href="product.php">SOCIAL SERVICES</a>
                 </li>
 
                 <li>
-                  <a href="contact.html">CONTACTS</a>
+                  <a href="contact.php">CONTACTS</a>
                 </li>
               </ul>
             </div>
@@ -184,7 +184,7 @@
                     <p>
                       short description about product 1...
                     </p>
-                    <a href="product.html" class="btn-link fa-angle-right"></a>
+                    <a href="product.php" class="btn-link fa-angle-right"></a>
                   </div>
                 </div>
               </div>
@@ -200,7 +200,7 @@
                     <p class="thumb_ins1">
                       short description about product 2...
                     </p>
-                    <a href="product.html" class="btn-link fa-angle-right"></a>
+                    <a href="product.php" class="btn-link fa-angle-right"></a>
                   </div>
                 </div>
               </div>
@@ -219,7 +219,7 @@
                     <p>
                       short description about product 3...
                     </p>
-                    <a href="product.html" class="btn-link fa-angle-right"></a>
+                    <a href="product.php" class="btn-link fa-angle-right"></a>
                   </div>
                 </div>
               </div>
@@ -235,7 +235,7 @@
                     <p>
                       short description about product 4...
                     </p>
-                    <a href="product.html" class="btn-link fa-angle-right"></a>
+                    <a href="product.php" class="btn-link fa-angle-right"></a>
                   </div>
                 </div>
               </div>
@@ -251,7 +251,7 @@
                     <p>
                       short description about product 5...
                     </p>
-                    <a href="product.html" class="btn-link fa-angle-right"></a>
+                    <a href="product.php" class="btn-link fa-angle-right"></a>
                   </div>
                 </div>
               </div>
@@ -289,7 +289,7 @@
                 China manufacturing operations.Midaya Packaging aims to be the best rigid packaging supplier in Australia,
                 measured by quality and range of product; knowledge and expertise; flexibility of supply and unparalleled
                 service. Thankyou for visiting our website, we look forward to being of service to you.
-                <a href="about.html" class="btn-link l-h1 fa-angle-right"></a>
+                <a href="about.php" class="btn-link l-h1 fa-angle-right"></a>
               </p>
             </div>
           </div>
@@ -309,27 +309,27 @@
               <ul class="link-list wow fadeInLeft" data-wow-duration='3s'>
                 <li>
 
-                  <a href="service.html">Custom Tooling & Molding</a>
+                  <a href="service.php">Custom Tooling & Molding</a>
 
-                  <a href="service.html" class="btn-link l-h1 fa-angle-right"></a>
+                  <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
                 </li>
                 <li>
 
-                  <a href="service.html">Artwork Design</a>
+                  <a href="service.php">Artwork Design</a>
 
-                  <a href="service.html" class="btn-link l-h1 fa-angle-right"></a>
+                  <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
                 </li>
                 <li>
 
-                  <a href="service.html">Decorating Services</a>
+                  <a href="service.php">Decorating Services</a>
 
-                  <a href="service.html" class="btn-link l-h1 fa-angle-right"></a>
+                  <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
                 </li>
                 <li>
 
-                  <a href="service.html">Point of Sale Merchandise</a>
+                  <a href="service.php">Point of Sale Merchandise</a>
 
-                  <a href="service.html" class="btn-link l-h1 fa-angle-right"></a>
+                  <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
                 </li>
               </ul>
             </div>
@@ -385,7 +385,7 @@
               </tr>
               <tr>
                 <td></td>
-                <td>Sri Lanka<a href="contact.html" class="btn-link l-h1 fa-angle-right"></a></td>
+                <td>Sri Lanka<a href="contact.php" class="btn-link l-h1 fa-angle-right"></a></td>
               </tr>
             </table>
 

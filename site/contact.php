@@ -63,13 +63,13 @@
                 <a href="./">HOME</a>
               </li>
               <li>
-                <a href="about.html">ABOUT</a>
+                <a href="about.php">ABOUT</a>
               </li>
               <li>
-                <a href="product.html">PRODUCTS</a>
+                <a href="product.php">PRODUCTS</a>
               </li>
               <li class="dropdown">
-                <a href="service.html">SERVICES<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+                <a href="service.php">SERVICES<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
                 <ul class="dropdown-menu">
                   <li>
                     <a href="#">Service 1</a>
@@ -91,11 +91,11 @@
                 </ul>
               </li>
               <li>
-                <a href="product.html">SOCIAL SERVICES</a>
+                <a href="product.php">SOCIAL SERVICES</a>
               </li>
 
               <li class="active">
-                <a href="contact.html">CONTACTS</a>
+                <a href="contact.php">CONTACTS</a>
               </li>
             </ul>
           </div>
