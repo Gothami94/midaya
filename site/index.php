@@ -138,7 +138,7 @@
                 </div>
               </div>
             </div>
-            <div data-src="images/page-1_slide2.jpg">
+            <div data-src="images/page-1_slide1.jpg">
               <div class="camera_caption fadeIn">
                 <div class="jumbotron jumbotron1">
                   <em>
