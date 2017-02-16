@@ -140,10 +140,7 @@
             </div>
             <div class="col-md-4 col-sm-12 col-xs-12">
               <h2>
-               our
-               <small>
-                 history
-               </small>
+               Awards
               </h2>
 
               <article class='media offs2'>
@@ -151,8 +148,8 @@
                   <time datetime='2015'>1994 -</time>
                 </div>
                 <div class="media-body">
-                  <p>
-                    The Star Packaging Solutions business first launched in 1994 and is proudly 100% Australian owned and operated.                  </p>
+                  <p>NATIONAL GREEN AWARDS AWARDS</p>
+                  <img class="" src="images/aw1.jpg" alt="">
                 </div>
               </article>
 
@@ -161,9 +158,8 @@
                   <time datetime='2015'>2000 -</time>
                 </div>
                 <div class="media-body">
-                  <p>
-                    Star's origins began with providing packaging and associated products to bakery and café businesses. One bakery customer in particular has grown from one store to over 700 and it was through this partnership that our service offering really developed.
-                  </p>
+                  <p>NATIONAL BUSINESS EXCELLENCE AWARDS</p>
+                  <img class="" src="images/aw2.jpg" alt="">
                 </div>
               </article>
 
@@ -172,9 +168,8 @@
                   <time datetime='2015'>2009 -</time>
                 </div>
                 <div class="media-body">
-                  <p>
-                    Our understanding of the importance of partnering with our customers has seen us develop into specialists in the franchise and retail space.
-                  </p>
+                  <p>CEYLON NATIONAL CHAMBER OF INDUSTRIES AWARDS</p>
+                  <img class="" src="images/aw3.jpg" alt="">
                 </div>
               </article>
 
@@ -183,124 +178,12 @@
                   <time datetime='2015'>2015 -</time>
                 </div>
                 <div class="media-body">
-                  <p>
-                    We have always had a "no worries we can help with that" approach combined with old-school customer service and we always seek to provide competitively priced, high quality products.
-                  </p>
+                  <p>NATIONAL CHAMBER OF EXPORTS EXPORT AWARDS </p>
+                  <img class="" src="images/aw4.jpg" alt="">
                 </div>
               </article>
 
             </div>
-            <div class="col-md-4 col-sm-12 col-xs-12">
-              <h2>
-                partners
-              </h2>
-
-              <p class="lead offs2">
-                Some of our great long term business partners include:
-              </p>
-
-              <p>
-                At Star we pride ourselves on our commitment to providing not only the best value products but also the best service in the industry. We strive to create long term relationships with customers and support their business in growing and succeeding in their ventures.
-              </p>
-
-              <ul class="marked-list">
-                <li>
-                  <a href="#">
-                    Bakers Delight
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    Banjo's Bakeries
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    Grill'd Burgers
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="well well4 bg1 wow fadeIn" data-wow-duration='3s'>
-        <div class="container">
-        <h2>
-          meet our
-          <small>
-            team
-          </small>
-        </h2>
-          <div class="row offs3 center767">
-            <div class="col-md-3 col-sm-6 col-xs-12">
-              <div class="thumbnail1">
-                <img class="" src="images/page-2_img2.jpg" alt="">
-                <div class="caption">
-                  <h4>
-                    <a href="#">
-                      Ivana Wong
-                    </a>
-                  </h4>
-                  <p>
-                    Mark Elliot Zuckerberg (born May 14, 1984) is an American computer programmer and Internet entrepreneur. He is the chairman, chief executive officer, and co-founder of Facebook
-                  </p>
-                </div>
-             </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12">
-              <div class="thumbnail1">
-                <img class="" src="images/page-2_img3.jpg" alt="">
-                <div class="caption">
-                  <h4>
-                    <a href="#">
-                      Tom Nelson
-                    </a>
-                  </h4>
-                  <p>
-                    Mark Elliot Zuckerberg (born May 14, 1984) is an American computer programmer and Internet entrepreneur. He is the chairman, chief executive officer, and co-founder of Facebook
-                  </p>
-                </div>
-             </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12">
-              <div class="thumbnail1">
-                <img class="" src="images/page-2_img4.jpg" alt="">
-                <div class="caption">
-                  <h4>
-                    <a href="#">
-                      Ivana Wong
-                    </a>
-                  </h4>
-                  <p>
-                    Mark Elliot Zuckerberg (born May 14, 1984) is an American computer programmer and Internet entrepreneur. He is the chairman, chief executive officer, and co-founder of Facebook
-                  </p>
-                </div>
-             </div>
-            </div>
-            <div class="col-md-3 col-sm-6 col-xs-12">
-              <div class="thumbnail1">
-                <img src="images/page-2_img5.jpg" alt="">
-                <div class="caption">
-                  <h4>
-                    <a href="#">
-                      Tom Nelson
-                    </a>
-                  </h4>
-                  <p>
-                    Mark Elliot Zuckerberg (born May 14, 1984) is an American computer programmer and Internet entrepreneur. He is the chairman, chief executive officer, and co-founder of Facebook
-                  </p>
-                </div>
-             </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section class="well well5">
-        <div class="container">
-          <div class="row">
             <div class="col-md-4 col-sm-12 col-xs-12">
               <h2>
                 solutions
@@ -319,32 +202,6 @@
                   Understanding of the importance of your brand
                 </li>
               </ul>
-            </div>
-
-            <div class="col-md-4 col-sm-6 col-xs-12">
-            </div>
-
-            <div class="col-md-4 col-sm-6 col-xs-12">
-              <h2>
-               testimonial
-              </h2>
-              <blockquote class="media offs3">
-                <div class="media-left media_ins1">
-                  <img src="images/page-2_img6.jpg" alt="">
-                </div>
-                <div class="media-body">
-                  <p>
-                    <q>
-                      "I have found Ward Goodman to be very helpful and knowledgeable to us as a Charity both as advisors and Auditors."
-                    </q>
-                  </p>
-                  <cite>
-                    Edna Barton,<br />
-                    client
-                  </cite>
-                </div>
-              </blockquote>
-
             </div>
           </div>
         </div>
