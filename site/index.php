@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -32,7 +31,7 @@
         </a>
     </div>
     <script src="js/html5shiv.js"></script>
-    <![endif]-->
+    <[endif]-->
     <script src='js/device.min.js'></script>
   </head>
   <body>
@@ -114,305 +113,306 @@
       </div>
     </header>
 
+
   <!--========================================================
                             CONTENT
   =========================================================-->
 
-    <main>
+  <main>
 
-      <section class="well well1 well1_ins1">
-        <div class="camera_container">
-          <div id="camera" class="camera_wrap">
-            <div data-src="images/page-1_slide1.jpg">
-              <div class="camera_caption fadeIn">
-                <div class="jumbotron jumbotron2">
-                  <em>
-                    SUCCESS
-                  </em>
-                  <div class="wrap">
-                    <p>
-                      something here...
-                    </p>
-                    <a href="#" class="btn-link fa-angle-right"></a>
-                  </div>
+    <section class="well well1 well1_ins1">
+      <div class="camera_container">
+        <div id="camera" class="camera_wrap">
+          <div data-src="images/page-1_slide2.jpg">
+            <div class="camera_caption fadeIn">
+              <div class="jumbotron jumbotron2">
+                <em>
+                  SUCCESS
+                </em>
+                <div class="wrap">
+                  <p>
+                    something here...
+                  </p>
+                  <a href="#" class="btn-link fa-angle-right"></a>
                 </div>
               </div>
             </div>
-            <div data-src="images/page-1_slide1.jpg">
-              <div class="camera_caption fadeIn">
-                <div class="jumbotron jumbotron1">
-                  <em>
-                    Quality
-                  </em>
-                  <div class="wrap">
-                    <p>
-                      something here...
-                    </p>
-                    <a href="#" class="btn-link hov_prime fa-angle-right"></a>
-                  </div>
+          </div>
+          <div data-src="images/page-1_slide1.jpg">
+            <div class="camera_caption fadeIn">
+              <div class="jumbotron jumbotron1">
+                <em>
+                  quality
+                </em>
+                <div class="wrap">
+                  <p>
+                    something here...
+                  </p>
+                  <a href="#" class="btn-link hov_prime fa-angle-right"></a>
                 </div>
               </div>
             </div>
-            <div data-src="images/page-1_slide3.jpg">
-              <div class="camera_caption fadeIn">
-                <div class="jumbotron jumbotron3">
-                  <em>
-                    SOLUTIONS
-                  </em>
-                  <div class="wrap">
-                    <p>
-                      something here...
-                    </p>
-                    <a href="#" class="btn-link fa-angle-right"></a>
-                  </div>
+          </div>
+          <div data-src="images/page-1_slide3.jpg">
+            <div class="camera_caption fadeIn">
+              <div class="jumbotron">
+                <em>
+                  SOLUTIONS
+                </em>
+                <div class="wrap">
+                  <p>
+                    something here...
+                  </p>
+                  <a href="#" class="btn-link fa-angle-right"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container center991">
+        <div class="row">
+          <div class="col-md-4 col-sm-12 col-xs-12">
+            <div class="thumbnail thumb-shadow">
+              <img src="images/page-1_img1.jpg" alt="">
+              <div class="caption bg2">
+                <h3>
+                  PRODUCT 1
+                </h3>
+                <div class="wrap">
+                  <p>
+                    short description about product 1...
+                  </p>
+                  <a href="product.php" class="btn-link fa-angle-right"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-8 col-sm-12 col-xs-12">
+            <div class="thumbnail thumb-shadow">
+              <img src="images/page-1_img2.jpg" alt="">
+              <div class="caption bg3">
+                <h3>
+                  PRODUCT 2
+                </h3>
+                <div class="wrap">
+                  <p class="thumb_ins1">
+                    short description about product 2...
+                  </p>
+                  <a href="product.php" class="btn-link fa-angle-right"></a>
                 </div>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="container center991">
-          <div class="row">
-            <div class="col-md-4 col-sm-12 col-xs-12">
-              <div class="thumbnail thumb-shadow">
-                <img src="images/page-1_img1.jpg" alt="">
-                <div class="caption bg2">
-                  <h3>
-                    PRODUCT 1
-                  </h3>
-                  <div class="wrap">
-                    <p>
-                      short description about product 1...
-                    </p>
-                    <a href="product.php" class="btn-link fa-angle-right"></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-8 col-sm-12 col-xs-12">
-              <div class="thumbnail thumb-shadow">
-                <img src="images/page-1_img2.jpg" alt="">
-                <div class="caption bg3">
-                  <h3>
-                    PRODUCT 2
-                  </h3>
-                  <div class="wrap">
-                    <p class="thumb_ins1">
-                      short description about product 2...
-                    </p>
-                    <a href="product.php" class="btn-link fa-angle-right"></a>
-                  </div>
+        <div class="row wow fadeIn" data-wow-duration='2s'>
+          <div class="col-md-4 col-sm-12 col-xs-12">
+            <div class="thumbnail thumb-shadow">
+              <img src="images/page-1_img3.jpg" alt="">
+              <div class="caption bg3">
+                <h3>
+                  PRODUCT 3
+                </h3>
+                <div class="wrap">
+                  <p>
+                    short description about product 3...
+                  </p>
+                  <a href="product.php" class="btn-link fa-angle-right"></a>
                 </div>
               </div>
             </div>
           </div>
-
-          <div class="row wow fadeIn" data-wow-duration='2s'>
-            <div class="col-md-4 col-sm-12 col-xs-12">
-              <div class="thumbnail thumb-shadow">
-                <img src="images/page-1_img3.jpg" alt="">
-                <div class="caption bg3">
-                  <h3>
-                    PRODUCT 3
-                  </h3>
-                  <div class="wrap">
-                    <p>
-                      short description about product 3...
-                    </p>
-                    <a href="product.php" class="btn-link fa-angle-right"></a>
-                  </div>
+          <div class="col-md-4 col-sm-12 col-xs-12">
+            <div class="thumbnail thumb-shadow">
+              <img src="images/page-1_img4.jpg" alt="">
+              <div class="caption bg-primary">
+                <h3>
+                  PRODUCT 4
+                </h3>
+                <div class="wrap">
+                  <p>
+                    short description about product 4...
+                  </p>
+                  <a href="product.php" class="btn-link fa-angle-right"></a>
                 </div>
               </div>
             </div>
-            <div class="col-md-4 col-sm-12 col-xs-12">
-              <div class="thumbnail thumb-shadow">
-                <img src="images/page-1_img4.jpg" alt="">
-                <div class="caption bg-primary">
-                  <h3>
-                    PRODUCT 4
-                  </h3>
-                  <div class="wrap">
-                    <p>
-                      short description about product 4...
-                    </p>
-                    <a href="product.php" class="btn-link fa-angle-right"></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-12 col-xs-12">
-              <div class="thumbnail thumb-shadow">
-                <img src="images/page-1_img5.jpg" alt="">
-                <div class="caption bg2">
-                  <h3>
-                    PRODUCT 5
-                  </h3>
-                  <div class="wrap">
-                    <p>
-                      short description about product 5...
-                    </p>
-                    <a href="product.php" class="btn-link fa-angle-right"></a>
-                  </div>
+          </div>
+          <div class="col-md-4 col-sm-12 col-xs-12">
+            <div class="thumbnail thumb-shadow">
+              <img src="images/page-1_img5.jpg" alt="">
+              <div class="caption bg2">
+                <h3>
+                  PRODUCT 5
+                </h3>
+                <div class="wrap">
+                  <p>
+                    short description about product 5...
+                  </p>
+                  <a href="product.php" class="btn-link fa-angle-right"></a>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
+      </div>
+    </section>
 
-      <section class="well well2 wow fadeIn  bg1" data-wow-duration='3s'>
-        <div class="container">
-        <h2 class="txt-pr">
-        WELCOME
-          <small>
-            TO MIDAYA PACKAGING!
-          </small>
-        </h2>
-          <div class="row">
-            <div class="col-md-6 col-sm-12">
-              <p>
-                Midaya Packaging is a manufacturer, distributor and importer of rigid plastic packaging products including;
-                bottles, tubes, jars, jerry cans, cubes, pails, caps, pumps & sprays and airless systems, servicing the
-                Pharmaceutical, Hair care, Personal care, Cosmaceutical, Automotive, Industrial and Chemical industries.
-                Midaya Packaging also provides specialised packaging services such as tool design and supply a complete
-                project management decoration service from graphic design to supplying screen printed and labelled packaging.
-                Midaya Packaging was established in 1996, and over the last twenty years has become an integral part of the
-                Australian packaging landscape.
-              </p>
-            </div>
-            <div class="col-md-6 col-sm-12">
-              <p>
-                Midaya Packaging is located at Kurnell where our team of experienced,
-                motivated and friendly staff are happy to sit down with you and discuss your packaging requirements.
-                To meet the demands of its local and international customers, Midaya Packaging established in 2009 an
-                office in Shanghai China, employing a full time Asia Pacific Manager and QC team to co-ordinate it's
-                China manufacturing operations.Midaya Packaging aims to be the best rigid packaging supplier in Australia,
-                measured by quality and range of product; knowledge and expertise; flexibility of supply and unparalleled
-                service. Thankyou for visiting our website, we look forward to being of service to you.
-                <a href="about.php" class="btn-link l-h1 fa-angle-right"></a>
-              </p>
-            </div>
+    <section class="well well2 wow fadeIn  bg1" data-wow-duration='3s'>
+      <div class="container">
+      <h2 class="txt-pr">
+      WELCOME
+        <small>
+          TO MIDAYA PACKAGING!
+        </small>
+      </h2>
+        <div class="row">
+          <div class="col-md-6 col-sm-12">
+            <p>
+              Midaya Packaging is a manufacturer, distributor and importer of rigid plastic packaging products including;
+              bottles, tubes, jars, jerry cans, cubes, pails, caps, pumps & sprays and airless systems, servicing the
+              Pharmaceutical, Hair care, Personal care, Cosmaceutical, Automotive, Industrial and Chemical industries.
+              Midaya Packaging also provides specialised packaging services such as tool design and supply a complete
+              project management decoration service from graphic design to supplying screen printed and labelled packaging.
+              Midaya Packaging was established in 1996, and over the last twenty years has become an integral part of the
+              Australian packaging landscape.
+            </p>
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <p>
+              Midaya Packaging is located at Kurnell where our team of experienced,
+              motivated and friendly staff are happy to sit down with you and discuss your packaging requirements.
+              To meet the demands of its local and international customers, Midaya Packaging established in 2009 an
+              office in Shanghai China, employing a full time Asia Pacific Manager and QC team to co-ordinate it's
+              China manufacturing operations.Midaya Packaging aims to be the best rigid packaging supplier in Australia,
+              measured by quality and range of product; knowledge and expertise; flexibility of supply and unparalleled
+              service. Thankyou for visiting our website, we look forward to being of service to you.
+              <a href="about.php" class="btn-link l-h1 fa-angle-right"></a>
+            </p>
           </div>
         </div>
-      </section>
+      </div>
+    </section>
 
-      <section class="well well2">
-        <div class="container">
-        <h2>
-          OUR
-          <small>
-            SERVICES
-          </small>
-        </h2>
-          <div class="row offs1">
-            <div class="col-md-6 col-sm-12">
-              <ul class="link-list wow fadeInLeft" data-wow-duration='3s'>
-                <li>
+    <section class="well well2">
+      <div class="container">
+      <h2>
+        OUR
+        <small>
+          SERVICES
+        </small>
+      </h2>
+        <div class="row offs1">
+          <div class="col-md-6 col-sm-12">
+            <ul class="link-list wow fadeInLeft" data-wow-duration='3s'>
+              <li>
 
-                  <a href="service.php">Custom Tooling & Molding</a>
+                <a href="service.php">Custom Tooling & Molding</a>
 
-                  <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
-                </li>
-                <li>
+                <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
+              </li>
+              <li>
 
-                  <a href="service.php">Artwork Design</a>
+                <a href="service.php">Artwork Design</a>
 
-                  <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
-                </li>
-                <li>
+                <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
+              </li>
+              <li>
 
-                  <a href="service.php">Decorating Services</a>
+                <a href="service.php">Decorating Services</a>
 
-                  <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
-                </li>
-                <li>
+                <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
+              </li>
+              <li>
 
-                  <a href="service.php">Point of Sale Merchandise</a>
+                <a href="service.php">Point of Sale Merchandise</a>
 
-                  <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
-                </li>
-              </ul>
-            </div>
-            <div class="col-md-6 col-sm-12">
-              <img class="width_img" src="images/page-1_img6.jpg" alt="">
-            </div>
+                <a href="service.php" class="btn-link l-h1 fa-angle-right"></a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <img class="width_img" src="images/page-1_img6.jpg" alt="">
           </div>
         </div>
-      </section>
-    </main>
+      </div>
+    </section>
+  </main>
 
-    <!--========================================================
-                            MAP GOOGLE
+  <!--========================================================
+                          MAP GOOGLE
   =========================================================-->
 
   <section class="well well2 wow fadeIn  bg1" data-wow-duration='3s'>
-    <div class="container">
-      <h2 class="txt-pr">
-      FIND
-        <small>
-          US HERE
+  <div class="container">
+    <h2 class="txt-pr">
+    FIND
+      <small>
+        US HERE
+      </small>
+    </h2>
+
+    <div class="col-md-4 col-sm-12">
+      <h3 class="txt-pr">
+      <small><center>MIDAYA PACKAGING<br>
+        INDUSTRIES (PVT)LIMITED</center>
         </small>
-      </h2>
+      </h3>
+      <br>
+        <div class="row">
+          <table style="width:100%; height:60%;">
+            <tr>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr style="height:20%;">
+              <td><b>Head Office Location:</b></td>
+              <td></td>
+            </tr>
+            <tr style="height:20%;">
+              <td></td>
+              <td>Muthuhenawatte ,</td>
+            </tr>
+            <tr style="height:20%;">
+              <td></td>
+              <td>Padukka Road ,</td>
+            </tr>
+            <tr style="height:20%;">
+              <td></td>
+              <td>Meegoda ,</td>
+            </tr>
+            <tr style="height:20%;">
+              <td></td>
+              <td>Sri Lanka<a href="contact.php" class="btn-link l-h1 fa-angle-right"></a></td>
+            </tr>
+          </table>
 
-      <div class="col-md-4 col-sm-12">
-        <h3 class="txt-pr">
-        <small><center>MIDAYA PACKAGING<br>
-          INDUSTRIES (PVT)LIMITED</center>
-          </small>
-        </h3>
-        <br>
-          <div class="row">
-            <table style="width:100%; height:60%;">
-              <tr>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td><b>Head Office Location:</b></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td></td>
-                <td>Muthuhenawatte ,</td>
-              </tr>
-              <tr>
-                <td></td>
-                <td>Padukka Road ,</td>
-              </tr>
-              <tr>
-                <td></td>
-                <td>Meegoda ,</td>
-              </tr>
-              <tr>
-                <td></td>
-                <td>Sri Lanka<a href="contact.php" class="btn-link l-h1 fa-angle-right"></a></td>
-              </tr>
-            </table>
-
-          </div>
-      </div>
-
-      <div class="col-md-8 col-sm-12">
-        <br>
-          <div class="row">
-            <center><iframe width="99%" height="400" frameborder="0.5px" scrolling="no" marginheight="0" marginwidth="0"
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3961.351081806868!2d80.0388289!3d6.8484502!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2524f3102849b%3A0x1b2d6d752cc754d!2sMidaya+Packaging!5e0!3m2!1sen!2slk!4v1485879879867"></iframe></center>
-            <br><small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.8026497032793!2d79.87687911419232!3d6.91418389500416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2599c1a5b248f%3A0xc7e13ba0836b3294!2sNamel+Malani+Punchi+Theatre!5e0!3m2!1sen!2slk!4v1479571852010"
-            style="color:#0a0447;;text-align:left;font-size:0.95em">View Larger Map</a></small>
-          </div>
-      </div>
+        </div>
     </div>
+
+    <div class="col-md-8 col-sm-12">
+      <br>
+        <div class="row">
+          <center><iframe width="99%" height="400" frameborder="0.5px" scrolling="no" marginheight="0" marginwidth="0"
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3961.351081806868!2d80.0388289!3d6.8484502!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2524f3102849b%3A0x1b2d6d752cc754d!2sMidaya+Packaging!5e0!3m2!1sen!2slk!4v1485879879867"></iframe></center>
+          <br><small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.8026497032793!2d79.87687911419232!3d6.91418389500416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2599c1a5b248f%3A0xc7e13ba0836b3294!2sNamel+Malani+Punchi+Theatre!5e0!3m2!1sen!2slk!4v1479571852010"
+          style="color:#0a0447;;text-align:left;font-size:0.95em">View Larger Map</a></small>
+        </div>
+    </div>
+  </div>
   </section>
 
   <!--========================================================
-                        FOOTER
-=========================================================-->
-      <?php include("footer.php") ?>
+                      FOOTER
+  =========================================================-->
+    <?php include("footer.php") ?>
 
   </div>
 
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/tm-scripts.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/tm-scripts.js"></script>
 
   </body>
-</html>
+  </html>
