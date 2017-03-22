@@ -79,21 +79,22 @@
             <div id="sidebar"  class="nav-collapse ">
                 <!-- sidebar menu start-->
                 <ul class="sidebar-menu">
-                    <li class="active">
+                  <li>
                         <a class="" href="index.php">
                             <i class="icon_house_alt"></i>
                             <span>Company</span>
                         </a>
                     </li>
-  				          <li class="sub-menu">
+  				          <li>
                         <a href="product.php" class="">
-                            <i class="icon_document_alt"></i>
+                            <i class="icon_table"></i>
                             <span> Add Products</span>
                         </a>
                     </li>
                     <li class="sub-menu">
+                        <li class="active">
                         <a href="javascript:;" class="">
-                            <i class="icon_desktop"></i>
+                            <i class="icon_documents_alt"></i>
                             <span>Add Services</span>
                             <span class="menu-arrow arrow_carrot-right"></span>
                         </a>
@@ -110,7 +111,7 @@
                     </li>
                     <li>
                         <a class="" href="widgets.html">
-                            <i class="icon_genius"></i>
+                            <i class="icon_desktop"></i>
                             <span>Edit Contact</span>
                         </a>
                     </li>
