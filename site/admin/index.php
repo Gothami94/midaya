@@ -92,16 +92,15 @@
               <!-- sidebar menu start-->
               <ul class="sidebar-menu">
                   <li class="active">
-                      <a class="" href="index.html">
+                      <a class="" href="index.php">
                           <i class="icon_house_alt"></i>
                           <span>Company</span>
                       </a>
                   </li>
 				          <li class="sub-menu">
-                      <a href="javascript:;" class="">
+                      <a href="product.php" class="">
                           <i class="icon_document_alt"></i>
                           <span> Add Products</span>
-                          <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                   </li>
                   <li class="sub-menu">
@@ -111,12 +110,12 @@
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="general.html">Employee Welfare</a></li>
-                          <li><a class="" href="buttons.html">Social Services</a></li>
+                          <li><a class="" href="welfare.php">Employee Welfare</a></li>
+                          <li><a class="" href="social_service.php">Social Services</a></li>
                       </ul>
                   </li>
                   <li>
-                      <a class="" href="widgets.html">
+                      <a class="" href="award.php">
                           <i class="icon_genius"></i>
                           <span>Add Awards</span>
                       </a>
@@ -212,7 +211,7 @@
               <!-- project team & activity end -->
 
           </section>
-          
+
       </section>
       <!--main content end-->
   </section>
