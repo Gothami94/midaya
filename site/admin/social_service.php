@@ -8,6 +8,7 @@
     <meta name="keyword" content="Creative, Dashboard, Admin, Template, Theme, Bootstrap, Responsive, Retina, Minimal">
     <link rel="shortcut icon" href="img/favicon.png">
 
+    <link rel="icon" href="../images/favicon.png" type="image/x-icon">
     <title>Edit Social Services</title>
 
     <!-- Bootstrap CSS -->
