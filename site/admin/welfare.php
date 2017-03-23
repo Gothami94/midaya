@@ -138,21 +138,21 @@
               <div class="col-lg-12">
                   <section class="panel">
                       <header class="panel-heading">
-                          Add Products
+                          Add Welfare Events
                       </header>
                       <div class="panel-body">
                           <div class="form">
                               <form class="form-validate form-horizontal" id="feedback_form" method="get" action="">
                                   <div class="form-group ">
-                                      <label for="cname" class="control-label col-lg-2">Product Name :<span class="required">*</span></label>
+                                      <label for="cname" class="control-label col-lg-2">Event Name :<span class="required">*</span></label>
                                       <div class="col-lg-10">
                                           <input class="form-control" id="pname" name="pname" type="text" required />
                                       </div>
                                   </div>
                                   <div class="form-group ">
-                                      <label for="cemail" class="control-label col-lg-2">Serial no : <span class="required">*</span></label>
+                                      <label for="cemail" class="control-label col-lg-2">Date : <span class="required">*</span></label>
                                       <div class="col-lg-10">
-                                          <input class="form-control " id="sno" type="text" name="sno" required />
+                                          <input class="form-control " id="sno" type="date" name="sno" required />
                                       </div>
                                   </div>
                                   <div class="form-group ">
@@ -164,7 +164,7 @@
                                   <div class="form-group ">
                                       <label for="cname" class="control-label col-lg-2">Image : <span class="required">*</span></label>
                                       <div class="col-lg-10">
-                                          <input class="form-control" id="subject" name="subject" minlength="5" type="text" required />
+                                          <input class="form-control" id="subject" name="img"  type="text" required />
                                       </div>
                                   </div>
                                   <div class="form-group">
@@ -181,7 +181,7 @@
               </div>
           </div>
           <!-- page end-->
-      </section>
+        </section>
   </section>
   <!--main content end-->
 

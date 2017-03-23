@@ -163,7 +163,7 @@
                                       <div class="form-group ">
                                           <label for="cname" class="control-label col-lg-2">Image : <span class="required">*</span></label>
                                           <div class="col-lg-10">
-                                              <input class="form-control" id="subject" name="subject" minlength="5" type="text" required />
+                                              <input class="form-control" id="subject" name="img" type="text" required />
                                           </div>
                                       </div>
                                       <div class="form-group">
